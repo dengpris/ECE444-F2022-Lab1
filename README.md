@@ -20,3 +20,11 @@ Priscilla
 
 ### Activity 6
 https://github.com/dengpris/ECE444-F2022-EP
+
+### Activity 7
+```
+Starting on feature-change-title branch:
+```
+![image](https://user-images.githubusercontent.com/61913136/190836043-181492ff-2c47-467a-b158-4cbbcdbcbefc.png)
+
+![image](https://user-images.githubusercontent.com/61913136/190836065-d500ba42-9866-4b9f-83fc-dd346ea5fa35.png)
